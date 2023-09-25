@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/ctPKKV0/Education.png",
+    "title": "Quality Education",
+    "img": "./../src/Resources/Rectangle 4288.png",
+    "category": "Education",
+    "category_bg": "#EF4444",
+    "card_bg": "#FBB6B6",
+    "text_color": "#B91C1C",
+    "description": "Quality education is essential for the development of a strong and prosperous society. Our mission is to provide underprivileged children with access to world-class education. We believe that every child, regardless of their background, deserves the opportunity to learn, grow, and reach their full potential. By supporting our education initiatives, you are helping us build a brighter future for these young minds. Together, we can break down barriers to education and create a more equitable world.",
+    "price":249
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/PwrT4tY/Rectangle-4287.png",
+    "title": "Clothing Aid",
+    "img": "./../src/Resources/Clothing.png",
+    "category": "Clothing",
+    "category_bg": "#10B981",
+    "card_bg": "#A7F3D0",
+    "text_color": "#047857",
+    "description": "Access to proper clothing is not only about warmth but also about dignity and self-esteem. Our clothing aid program collects and distributes clothing to individuals and families in need. We believe that everyone should have access to clean and appropriate clothing, regardless of their circumstances. Your support helps us provide warmth, dignity, and a sense of belonging to those who need it most. Join us in making a difference in the lives of our neighbors.",
+    "price":249
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/FsKZnWF/Rectangle-4287-2.png",
+    "title": "Nutritious Meals",
+    "img": "./../src/Resources/Food.png",
+    "category": "Food",
+    "category_bg": "#F97316",
+    "card_bg": "#FCD9B6",
+    "text_color": "#B45309",
+    "description": "Access to nutritious meals is a basic human right. Our mission is to fight hunger and ensure that no one goes to bed hungry. We operate food banks and support food security initiatives to provide nutritious meals to individuals and families in need. Together, we can make a difference by ensuring that every person has enough to eat. Join us in our efforts to create a world where hunger is a thing of the ",
+    "price":249
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/9GmDyxs/Rectangle-4284.png",
+    "title": "Clean Water",
+    "img": "./../src/Resources/Health.png",
+    "category": "Health",
+    "category_bg": "#3B82F6",
+    "card_bg": "#BFDBFE",
+    "text_color": "#1E40AF",
+    "description": "Access to clean and safe drinking water is crucial for good health. Our clean water initiatives focus on providing children with access to clean and safe water sources. We believe that every child deserves a healthy start in life. Your support helps us promote health and vitality by ensuring access to clean water. Together, we can improve the well-being of our future generations."
+    ,
+    "price":249
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/9GmDyxs/Rectangle-4284.png",
+    "title": "Healthy Futures",
+    "img": "./../src/Resources/Health.png",
+    "category": "Health",
+    "category_bg": "#3B82F6",
+    "card_bg": "#BFDBFE",
+    "text_color": "#1E40AF",
+    "description": "Good health is the foundation of a bright future. Our initiatives focus on improving children's health by ensuring access to clean water sources and promoting healthy living. We believe that a healthy child can achieve anything. By supporting us, you are contributing to the well-being and success of our future leaders. Join us in creating a healthier world for our children.",
+    "price":249
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/FsKZnWF/Rectangle-4287-2.png",
+    "title": "Access to Food",
+    "img": "./../src/Resources/Food.png",
+    "category": "Food",
+    "category_bg": "#F97316",
+    "card_bg": "#FCD9B6",
+    "text_color": "#B45309",
+    "description": "Access to affordable and healthy food options is a fundamental right. Our mission is to ensure that everyone has access to nutritious and affordable food. By supporting our initiatives, you are helping us tackle food insecurity and create a world where no one goes hungry. Join us in our journey to make sure everyone has enough to eat.",
+    "price":249
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/PwrT4tY/Rectangle-4287.png",
+    "title": "Warmth & Dignity",
+    "img": "./../src/Resources/Clothing.png",
+    "category": "Clothing",
+    "category_bg": "#10B981",
+    "card_bg": "#A7F3D0",
+    "text_color": "#047857",
+    "description": "Warm clothing isn't just about staying cozy; it's about preserving dignity and self-respect. Our clothing aid program provides warmth and dignity to individuals and families by ensuring access to proper clothing. Your support helps us spread warmth and foster a sense of community. Join us in making a difference.",
+    "price":249
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/ctPKKV0/Education.png",
+    "title": "Empower Students",
+    "img": "./../src/Resources/Rectangle 4288.png",
+    "category": "Education",
+    "category_bg": "#EF4444",
+    "card_bg": "#FECDD3",
+    "text_color": "#B91C1C",
+    "description": "Empowering underprivileged students to access quality education is our mission. We believe in breaking down barriers and supporting students on their educational journey. By supporting us, you help empower young minds for a brighter future. Join us in creating educational opportunities for all.",
+    "price":249
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/ctPKKV0/Education.png",
+    "title": "Unlocking Potential",
+    "img": "./../src/Resources/Rectangle 4288.png",
+    "category": "Education",
+    "category_bg": "#EF4444",
+    "card_bg": "#FECDD3",
+    "text_color": "#B91C1C",
+    "description": "Our education initiatives focus on unlocking the potential of young minds. We believe that education is the key to a brighter future. By supporting us, you empower students to overcome barriers and achieve their dreams. Join us in creating a world where every child has access to education.",
+    "price":249
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/PwrT4tY/Rectangle-4287.png",
+    "title": "Community Support",
+    "img": "./../src/Resources/Clothing.png",
+    "category": "Clothing",
+    "category_bg": "#10B981",
+    "card_bg": "#A7F3D0",
+    "text_color": "#047857",
+    "description": "Supporting clothing donation efforts strengthens our community. Your contributions help us provide clothing essentials, foster dignity, and create a warm and caring community. Join us in spreading warmth and support.",
+    "price":249
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/FsKZnWF/Rectangle-4287-2.png",
+    "title": "No More Hunger",
+    "img": "./../src/Resources/Food.png",
+    "category": "Food",
+    "category_bg": "#F97316",
+    "card_bg": "#FCD9B6",
+    "text_color": "#B45309",
+    "description": "Our goal is to eliminate hunger in our community. We support food banks and food security initiatives to ensure that no one goes to bed hungry. By joining us, you help create a world where everyone has access to nourishing meals. Join us in our fight against hunger.",
+    "price":249
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/9GmDyxs/Rectangle-4284.png",
+    "title": "Healthy Start",
+    "img": "./../src/Resources/Health.png",
+    "category": "Health",
+    "category_bg": "#3B82F6",
+    "card_bg": "#BFDBFE",
+    "text_color": "#1E40AF",
+    "description": "Supporting clean water initiatives ensures a healthy start for our future generations. Clean water is essential for good health, and every child deserves it. By supporting us, you contribute to the well-being and success of our children. Join us in creating a healthier future.",
+    "price":249
+  }
+]
