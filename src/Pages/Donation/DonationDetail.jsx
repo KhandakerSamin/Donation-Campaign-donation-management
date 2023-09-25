@@ -1,5 +1,7 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable react/prop-types */
+import swal from 'sweetalert';
+
 
 const DonationDetail = ({ donation }) => {
     const { id, img, picture, title, category, category_bg, card_bg, text_color, description, price } = donation || {};
@@ -10,14 +12,24 @@ const DonationDetail = ({ donation }) => {
 
         const donationItems = JSON.parse(localStorage.getItem('donations'))
 
-        if(!donationItems){
+        if (!donationItems) {
             addedDonationArray.push(donation)
-            localStorage.setItem('donations',JSON.stringify(addedDonationArray))
-            alert('product added');
-        }else{
-            addedDonationArray.push(...donationItems,donation)
-            localStorage.setItem('donations',JSON.stringify(addedDonationArray))
-            alert('product added');
+            localStorage.setItem('donations', JSON.stringify(addedDonationArray))
+            swal("Mashallah!", "You Donated Successfully", "success");
+        } else {
+
+            const isExist = donationItems.find(donation => donation.id == id)
+
+            if (!isExist) {
+                addedDonationArray.push(...donationItems, donation)
+                localStorage.setItem('donations', JSON.stringify(addedDonationArray))
+                swal("Mashallah!", "You Donated Successfully!", "success");
+            }else{
+                swal("Sorry!", "You cant donate in same category twice", "error");
+            }
+            // addedDonationArray.push(...donationItems, donation)
+            // localStorage.setItem('donations', JSON.stringify(addedDonationArray))
+            // alert('product added');
         }
 
         // localStorage.setItem('samin', JSON.stringify([{name:"hasib"},{name:"samin"}]));
