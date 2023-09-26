@@ -33,7 +33,14 @@ const DonationPage = () => {
             </div>
                 <div className="flex justify-center items-center">
                 {
-                    donations.length > 4 && <button onClick={() => setIsShowAll(!isShowAll)} className="bg-green-700 text-white px-4 py-2 rounded-lg mt-5 mb-16">{isShowAll? "Show less" : "See All"}</button>
+                        donations.length > 4 && !isShowAll && (
+                            <button
+                                onClick={() => setIsShowAll(true)}
+                                className="bg-green-700 text-white px-4 py-2 rounded-lg mt-5 mb-16"
+                            >
+                                See All
+                            </button>
+                        )
                 }
                 </div>
             </div>}
