@@ -5,14 +5,14 @@ import DonationDetail from "./DonationDetail";
 const Donation = () => {
     const [donation , setDonation] = useState({});
     const {id} = useParams();
-    console.log(id);
+    // console.log(id);
     const donations = useLoaderData();
-    console.log(donations);
+    // console.log(donations);
     useEffect(() => {
         const findDonation = donations?.find((donation) => donation.id == id);
         setDonation(findDonation);
     },[id, donations]);
-    console.log(donation);
+    // console.log(donation);
     return (
   <div>
     <DonationDetail donation={donation} ></DonationDetail>

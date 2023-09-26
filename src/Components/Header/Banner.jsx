@@ -1,4 +1,4 @@
-import { useLoaderData } from 'react-router-dom';
+
 import backgroundImage from '../../Img/bg.png';
 import AllDonations from '../Donations/AllDonations';
 import { useEffect, useState } from 'react';
@@ -13,14 +13,11 @@ const Banner = () => {
   const handleSearch = (e) => {
     setData(data)
     e.preventDefault();
-    // console.log(e.target.search.value);
     const inputValue = e.target.search.value;
-    console.log(inputValue);
-    
     const searchData = data.filter(item => item.category.toLowerCase() === inputValue.toLowerCase());
     if (searchData.length > 0) {
       setData(searchData)
-    }else{
+    } else {
       setData(data);
     }
   }

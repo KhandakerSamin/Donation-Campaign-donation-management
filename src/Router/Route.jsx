@@ -10,24 +10,25 @@ import DonationPage from "../Pages/DonationPage/DonationPage";
 const myCreatedRoute = createBrowserRouter([
     {
         path: '/',
-        element:<MainLayout></MainLayout>,
+        element: <MainLayout></MainLayout>,
         errorElement: <ErrorPage></ErrorPage>,
-        children:[
+        children: [
             {
-                path:'/',
-                element:<Home></Home>,
+                path: '/',
+                element: <Home></Home>,
             },
             {
-                path:'/donations',
-                element:<DonationPage></DonationPage>
+                path: '/donations',
+                element: <DonationPage></DonationPage>
             },
             {
-                path:'/statistics',
-                element:<Statistics></Statistics>
+                path: '/statistics',
+                element: <Statistics></Statistics>,
+                loader: () => fetch('/data.json')
             },
             {
                 path: '/donation/:id',
-                element:<Donation></Donation>,
+                element: <Donation></Donation>,
                 loader: () => fetch('/data.json')
             }
         ]

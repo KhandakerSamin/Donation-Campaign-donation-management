@@ -1,7 +1,4 @@
-
 import Banner from "../Components/Header/Banner";
-
-
 
 const Home = () => {
  
@@ -9,7 +6,6 @@ const Home = () => {
         <div>
             <div>
                 <Banner></Banner>
-
             </div>
         </div>
     );
