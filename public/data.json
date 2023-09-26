@@ -8,8 +8,8 @@
     "category_bg": "#EF4444",
     "card_bg": "#FBB6B6",
     "text_color": "#B91C1C",
-    "description": "Quality education is essential for the development of a strong and prosperous society. Our mission is to provide underprivileged children with access to world-class education. We believe that every child, regardless of their background, deserves the opportunity to learn, grow, and reach their full potential. By supporting our education initiatives, you are helping us build a brighter future for these young minds. Together, we can break down barriers to education and create a more equitable world.",
-    "price":249
+    "description": "Quality education is essential for the development of a strong and prosperous society. Our mission in the Education category is to provide underprivileged children with access to world-class education. We firmly believe that every child, regardless of their background, deserves the opportunity to learn, grow, and reach their full potential. By supporting our education initiatives, you are playing a crucial role in building a brighter future for these young minds. Together, we can break down barriers to education, eliminate disparities, and create a more equitable world where every child has the chance to thrive academically and personally.",
+    "price": 350
   },
   {
     "id": 2,
@@ -20,8 +20,8 @@
     "category_bg": "#10B981",
     "card_bg": "#A7F3D0",
     "text_color": "#047857",
-    "description": "Access to proper clothing is not only about warmth but also about dignity and self-esteem. Our clothing aid program collects and distributes clothing to individuals and families in need. We believe that everyone should have access to clean and appropriate clothing, regardless of their circumstances. Your support helps us provide warmth, dignity, and a sense of belonging to those who need it most. Join us in making a difference in the lives of our neighbors.",
-    "price":249
+    "description": "In the Clothing category, we recognize that clothing is not just about staying warm; it's also about preserving dignity and self-esteem. Our clothing aid program is dedicated to collecting and distributing clothing to individuals and families in need. We firmly believe that everyone should have access to clean and appropriate clothing, regardless of their circumstances. Your support empowers us to provide warmth, dignity, and a sense of belonging to those who need it most. Join us in making a meaningful difference in the lives of our neighbors by contributing to our Clothing category.",
+    "price": 275
   },
   {
     "id": 3,
@@ -32,8 +32,8 @@
     "category_bg": "#F97316",
     "card_bg": "#FCD9B6",
     "text_color": "#B45309",
-    "description": "Access to nutritious meals is a basic human right. Our mission is to fight hunger and ensure that no one goes to bed hungry. We operate food banks and support food security initiatives to provide nutritious meals to individuals and families in need. Together, we can make a difference by ensuring that every person has enough to eat. Join us in our efforts to create a world where hunger is a thing of the ",
-    "price":249
+    "description": "Access to nutritious meals is a basic human right, and it's at the heart of our Food category. Our mission is to combat hunger and ensure that no one goes to bed hungry. We operate food banks and support food security initiatives to provide nourishing meals to individuals and families in need. Together, we can make a significant impact by ensuring that every person has enough to eat. Join us in our collective efforts to create a world where hunger is a thing of the past, and everyone has access to nourishing food.",
+    "price": 420
   },
   {
     "id": 4,
@@ -44,9 +44,8 @@
     "category_bg": "#3B82F6",
     "card_bg": "#BFDBFE",
     "text_color": "#1E40AF",
-    "description": "Access to clean and safe drinking water is crucial for good health. Our clean water initiatives focus on providing children with access to clean and safe water sources. We believe that every child deserves a healthy start in life. Your support helps us promote health and vitality by ensuring access to clean water. Together, we can improve the well-being of our future generations."
-    ,
-    "price":249
+    "description": "Access to clean and safe drinking water is crucial for good health, which is why our Health category is dedicated to it. Our clean water initiatives focus on providing children with access to clean and safe water sources. We firmly believe that every child deserves a healthy start in life. By supporting us, you are promoting health and vitality through access to clean water. Together, we can improve the well-being of our future generations by ensuring that clean water is a reality for all.",
+    "price": 300
   },
   {
     "id": 5,
@@ -57,8 +56,8 @@
     "category_bg": "#3B82F6",
     "card_bg": "#BFDBFE",
     "text_color": "#1E40AF",
-    "description": "Good health is the foundation of a bright future. Our initiatives focus on improving children's health by ensuring access to clean water sources and promoting healthy living. We believe that a healthy child can achieve anything. By supporting us, you are contributing to the well-being and success of our future leaders. Join us in creating a healthier world for our children.",
-    "price":249
+    "description": "Good health is the bedrock of a bright future, and it's at the core of our Health category. Our initiatives focus on enhancing children's health by ensuring access to clean water sources and promoting healthy living. We firmly believe that a healthy child can achieve anything. By supporting us, you are contributing to the well-being and success of our future leaders. Join us in our mission to create a healthier world for our children, where they can thrive and reach their full potential.",
+    "price": 450
   },
   {
     "id": 6,
@@ -69,8 +68,8 @@
     "category_bg": "#F97316",
     "card_bg": "#FCD9B6",
     "text_color": "#B45309",
-    "description": "Access to affordable and healthy food options is a fundamental right. Our mission is to ensure that everyone has access to nutritious and affordable food. By supporting our initiatives, you are helping us tackle food insecurity and create a world where no one goes hungry. Join us in our journey to make sure everyone has enough to eat.",
-    "price":249
+    "description": "Access to affordable and nutritious food is a fundamental right, and it's the driving force behind our Food category. Our mission is to ensure that everyone has access to wholesome and affordable food options. By supporting our initiatives, you are joining us in tackling food insecurity and working towards a world where no one goes to bed hungry. Join us in our journey to ensure that everyone has enough to eat and can lead a healthy, fulfilling life.",
+    "price": 260
   },
   {
     "id": 7,
@@ -81,8 +80,8 @@
     "category_bg": "#10B981",
     "card_bg": "#A7F3D0",
     "text_color": "#047857",
-    "description": "Warm clothing isn't just about staying cozy; it's about preserving dignity and self-respect. Our clothing aid program provides warmth and dignity to individuals and families by ensuring access to proper clothing. Your support helps us spread warmth and foster a sense of community. Join us in making a difference.",
-    "price":249
+    "description": "The Clothing category isn't just about staying warm; it's about preserving dignity and self-respect. Our clothing aid program provides warmth and dignity to individuals and families by ensuring access to proper clothing. Your support helps us spread warmth and foster a sense of community. Join us in making a meaningful difference by providing warm clothing essentials to those in need, and together, we can create a more compassionate and caring community.",
+    "price": 235
   },
   {
     "id": 8,
@@ -93,8 +92,8 @@
     "category_bg": "#EF4444",
     "card_bg": "#FECDD3",
     "text_color": "#B91C1C",
-    "description": "Empowering underprivileged students to access quality education is our mission. We believe in breaking down barriers and supporting students on their educational journey. By supporting us, you help empower young minds for a brighter future. Join us in creating educational opportunities for all.",
-    "price":249
+    "description": "Empowering underprivileged students to access quality education is the driving force behind our Education category. We believe in breaking down barriers and supporting students on their educational journey. By supporting us, you help empower young minds for a brighter future. Join us in creating educational opportunities for all, and together, we can ensure that every child has access to the education they deserve.",
+    "price": 390
   },
   {
     "id": 9,
@@ -105,8 +104,8 @@
     "category_bg": "#EF4444",
     "card_bg": "#FECDD3",
     "text_color": "#B91C1C",
-    "description": "Our education initiatives focus on unlocking the potential of young minds. We believe that education is the key to a brighter future. By supporting us, you empower students to overcome barriers and achieve their dreams. Join us in creating a world where every child has access to education.",
-    "price":249
+    "description": "Our Education initiatives are all about unlocking the potential of young minds. We firmly believe that education is the key to a brighter future, and our goal is to support students in overcoming barriers and achieving their dreams. By supporting us, you are contributing to creating a world where every child has access to education and the opportunity to unlock their full potential.",
+    "price": 275
   },
   {
     "id": 10,
@@ -117,8 +116,8 @@
     "category_bg": "#10B981",
     "card_bg": "#A7F3D0",
     "text_color": "#047857",
-    "description": "Supporting clothing donation efforts strengthens our community. Your contributions help us provide clothing essentials, foster dignity, and create a warm and caring community. Join us in spreading warmth and support.",
-    "price":249
+    "description": "Supporting clothing donation efforts strengthens our community, and it's the essence of our Clothing category. Your contributions help us provide clothing essentials, foster dignity, and create a warm and caring community. Join us in making a meaningful difference by spreading warmth and support to those in need, and together, we can create a stronger and more compassionate community.",
+    "price": 310
   },
   {
     "id": 11,
@@ -129,8 +128,8 @@
     "category_bg": "#F97316",
     "card_bg": "#FCD9B6",
     "text_color": "#B45309",
-    "description": "Our goal is to eliminate hunger in our community. We support food banks and food security initiatives to ensure that no one goes to bed hungry. By joining us, you help create a world where everyone has access to nourishing meals. Join us in our fight against hunger.",
-    "price":249
+    "description": "Our mission in the Food category is simple: we aim to eliminate hunger in our community. We support food banks and food security initiatives to ensure that no one goes to bed hungry. By joining us, you become part of a movement to create a world where everyone has access to nourishing meals, and where the scourge of hunger is a thing of the past. Join us in our relentless fight against hunger and help us build a world where everyone is well-fed.",
+    "price": 480
   },
   {
     "id": 12,
@@ -141,7 +140,7 @@
     "category_bg": "#3B82F6",
     "card_bg": "#BFDBFE",
     "text_color": "#1E40AF",
-    "description": "Supporting clean water initiatives ensures a healthy start for our future generations. Clean water is essential for good health, and every child deserves it. By supporting us, you contribute to the well-being and success of our children. Join us in creating a healthier future.",
-    "price":249
+    "description": "Supporting clean water initiatives is at the heart of our Health category, as it ensures a healthy start for our future generations. We firmly believe that clean water is essential for good health, and every child deserves it. By supporting us, you contribute to the well-being and success of our children, helping create a healthier and brighter future for all. Join us in this vital mission to ensure that clean water is accessible to every child, and together, we can make a lasting impact on the well-being of generations to come.",
+    "price": 220
   }
 ]

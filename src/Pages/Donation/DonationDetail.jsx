@@ -50,7 +50,7 @@ const DonationDetail = ({ donation }) => {
                     </div>
                 </div>
             </div>
-            <div>
+            <div className='mx-10'>
                 <div>
                     <h1 className="text-4xl font-bold text-black mt-10 mb-6">{title}</h1>
                 </div>
